@@ -17,7 +17,7 @@ let app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
- origin:["https://shopease-frontend-g87p.onrender.com" , "http://localhost:5174"],
+ origin:["https://shopease-frontend-g87p.onrender.com" , "https://shopease-admin-ycju.onrender.com"],
  credentials:true
 }))
 
