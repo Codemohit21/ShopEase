@@ -175,10 +175,10 @@ ShopEase/
 * Shopping cart with **quantity updates**
 * Checkout with **address + Razorpay payments**
 * Order history & tracking
-* Google OAuth-based login
-* AI-powered chat support
+* Firebase login
+* AI-powered page navigation
 * Responsive UI with TailwindCSS
-* Newsletter & policy pages
+* Policy pages
 
 ### Admin Panel
 
@@ -283,8 +283,8 @@ npm run dev
 
 ## 🚀 Deployment Considerations
 
-* **Frontend & Admin** → Deploy on Vercel/Netlify
-* **Backend** → Deploy on Heroku/Railway/Cloud
+* **Frontend & Admin** → Deploy on Vercel
+* **Backend** → Deploy on Vercel
 * **Database** → MongoDB Atlas
 * **Images** → Cloudinary CDN
 * **Environments** → Separate configs for dev & prod
