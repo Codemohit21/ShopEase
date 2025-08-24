@@ -1,4 +1,3 @@
-Here’s a cleaned-up **README.md** generated strictly from the details you provided. I’ve organized it so it speaks both to **users** (features, usage) and **developers** (setup, architecture, tech stack).
 
 ---
 
