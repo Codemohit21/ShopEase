@@ -296,4 +296,3 @@ npm run dev
 
 ---
 
-Do you also want me to **make this README more concise for GitHub (marketing-style)** or keep it **detailed for documentation**?
