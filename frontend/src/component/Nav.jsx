@@ -112,7 +112,7 @@ function Nav() {
           <IoMdHome className='w-7 h-7' /> Home
         </button>
         <button className='flex flex-col items-center justify-center cursor-pointer' onClick={()=>navigate("/collection")}>
-          <HiOutlineCollection className='w-7 h-7' /> Collections
+          <HiOutlineCollection className='w-7 h-7' /> PRODUCTS
         </button>
         <button className='flex flex-col items-center justify-center cursor-pointer' onClick={()=>navigate("/contact")}>
           <MdContacts className='w-7 h-7' /> Contact
