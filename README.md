@@ -340,6 +340,7 @@ npm run dev
 - Admin dashboard with analytics
 
 ### Technical Features
+- **AI Navigation** for navigating to different pages by voice command
 - Responsive design for all devices
 - Real-time notifications with React Toastify
 - Image optimization with Cloudinary
@@ -358,11 +359,12 @@ npm run dev
 
 ## 🚀 Deployment Considerations
 
-- **Frontend & Admin**: Can be deployed on Vercel, Netlify, or similar platforms
-- **Backend**: Suitable for deployment on Heroku, Railway, or cloud providers
+- **Frontend & Admin**: Can be deployed on Render
+- **Backend**: Suitable for deployment on Render
 - **Database**: MongoDB Atlas for cloud database hosting
 - **Images**: Cloudinary for CDN and image optimization
 - **Environment**: Separate environment configurations for development and production
 
 This architecture provides a scalable, maintainable, and feature-rich e-commerce platform with modern web technologies and best practices.
+
 
